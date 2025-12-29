@@ -46,5 +46,5 @@ within the analysis scripts. Users are advised to use a recent version of R.
 
 ## Data availability and enquiries
 
-For additional information regarding the data, please contact the first author:
+For additional information regarding the data, please contact the first author: Erhao Ge
 Email: ucsaege@ucl.ac.uk
